@@ -1,0 +1,7 @@
+C:\Users\Samir\Desktop\Oop-2 Assignment\EmployeeAssignment\obj\Debug\EmployeeAssignment.csprojAssemblyReference.cache
+C:\Users\Samir\Desktop\Oop-2 Assignment\EmployeeAssignment\obj\Debug\EmployeeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Samir\Desktop\Oop-2 Assignment\EmployeeAssignment\bin\Debug\EmployeeAssignment.exe.config
+C:\Users\Samir\Desktop\Oop-2 Assignment\EmployeeAssignment\bin\Debug\EmployeeAssignment.exe
+C:\Users\Samir\Desktop\Oop-2 Assignment\EmployeeAssignment\bin\Debug\EmployeeAssignment.pdb
+C:\Users\Samir\Desktop\Oop-2 Assignment\EmployeeAssignment\obj\Debug\EmployeeAssignment.exe
+C:\Users\Samir\Desktop\Oop-2 Assignment\EmployeeAssignment\obj\Debug\EmployeeAssignment.pdb
