@@ -1,0 +1,7 @@
+D:\Lab-Task\Task-2\Student\bin\Debug\Student.exe.config
+D:\Lab-Task\Task-2\Student\bin\Debug\Student.exe
+D:\Lab-Task\Task-2\Student\bin\Debug\Student.pdb
+D:\Lab-Task\Task-2\Student\obj\Debug\Student.csprojAssemblyReference.cache
+D:\Lab-Task\Task-2\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+D:\Lab-Task\Task-2\Student\obj\Debug\Student.exe
+D:\Lab-Task\Task-2\Student\obj\Debug\Student.pdb

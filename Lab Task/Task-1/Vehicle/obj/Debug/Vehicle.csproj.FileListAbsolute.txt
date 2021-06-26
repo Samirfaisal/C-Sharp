@@ -1,0 +1,7 @@
+D:\Lab-Task\Task-1\Vehicle\bin\Debug\Vehicle.exe.config
+D:\Lab-Task\Task-1\Vehicle\bin\Debug\Vehicle.exe
+D:\Lab-Task\Task-1\Vehicle\bin\Debug\Vehicle.pdb
+D:\Lab-Task\Task-1\Vehicle\obj\Debug\Vehicle.csprojAssemblyReference.cache
+D:\Lab-Task\Task-1\Vehicle\obj\Debug\Vehicle.csproj.CoreCompileInputs.cache
+D:\Lab-Task\Task-1\Vehicle\obj\Debug\Vehicle.exe
+D:\Lab-Task\Task-1\Vehicle\obj\Debug\Vehicle.pdb
